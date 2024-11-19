@@ -109,3 +109,13 @@ header {
 .result-content ul li strong {
   color: #FF0000;
 }
+
+a{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  border: 2px solid white;
+  border-radius: 3px;
+  padding: 7px;
+}

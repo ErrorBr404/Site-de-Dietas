@@ -39,6 +39,22 @@ body {
   box-sizing: border-box;
 }
 
+.btn {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  border: 1px white solid;
+  padding: 10px;
+  display: flex;
+  margin: 0 185px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.btn:hover{
+  background-color: rgba(128, 128, 128, 0.863);
+}
+
 input {
   border-radius: 30px;
   border-style: none;
